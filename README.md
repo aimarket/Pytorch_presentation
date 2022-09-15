@@ -21,7 +21,7 @@ View jupyter notebook [here](https://github.com/aimarket/Pytorch_presentation/bl
 <img src="https://raw.githubusercontent.com/aimarket/Pytorch_presentation/main/slides/slide11.png" alt="slide0" title="Slide0" width="600"/>
 <img src="https://raw.githubusercontent.com/aimarket/Pytorch_presentation/main/slides/slide12.gif" alt="slide0" title="Slide0" width="600"/>
 <img src="https://raw.githubusercontent.com/aimarket/Pytorch_presentation/main/slides/slide13.png" alt="slide0" title="Slide0" width="600"/>
-<img src="https://raw.githubusercontent.com/aimarket/Pytorch_presentation/main/slides/slide14.png" alt="slide0" title="Slide0" width="600"/>
+<img src="https://raw.githubusercontent.com/aimarket/Pytorch_presentation/main/slides/slide14.gif" alt="slide0" title="Slide0" width="600"/>
 <img src="https://raw.githubusercontent.com/aimarket/Pytorch_presentation/main/slides/slide15.png" alt="slide0" title="Slide0" width="600"/>
 <img src="https://raw.githubusercontent.com/aimarket/Pytorch_presentation/main/slides/slide16.gif" alt="slide0" title="Slide0" width="600"/>
 <img src="https://raw.githubusercontent.com/aimarket/Pytorch_presentation/main/slides/slide17.png" alt="slide0" title="Slide0" width="600"/>
